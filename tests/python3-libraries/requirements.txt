@@ -35,7 +35,7 @@ cssselect==1.0.3
 cython==0.28.5
 decorator==4.3.0
 django-celery==3.2.2
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-extensions==2.1.1
 django==2.1
 django_compress==1.0.1
